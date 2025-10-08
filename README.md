@@ -13,16 +13,21 @@
 | # ls -la
 | --
 | -rwxr-xr-x  key.txt
-| drwxr-xr-x  exploits/
+| drwxr-xr-x  lib.txt
 | drwxr-xr-x  reverse-engineering/
 | -rwxr-xr-x  skills.txt
 |
 | # cat skills.txt
 | --
 | > Reverse Engineering:    GDB, Ghidra, Radare2
-| > Exploit Development:    Buffer Overflows, ROP, Shellcode, Kernel Exploits
+| > Exploit Development:    Buffer Overflows, ROP, Shellcode
 | > Languages:              C, C++, x86 Assembly, Bash
 | > Security Research:      Malware Analysis
+|
+| # cat lib.txt
+| > Qt (QWidgets, Qt Network)
+| > STL and Boost (Asio, Filesystem)
+| > libpcap and POSIX API
 |
 | # ps aux | grep current
 | --
