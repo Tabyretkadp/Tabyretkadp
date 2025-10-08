@@ -28,7 +28,8 @@
 | --
 | > reverse-engineering malware_sample.bin
 | > developing linux_kernel_exploit
-| > solving ctf_challenge
+|
+| > There will be something important here...
 |
 | # nc -lvp 1337
 | --
