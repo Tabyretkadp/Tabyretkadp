@@ -1,3 +1,13 @@
+```
+┌──────────────────────────────────────────────────────────────────┐  
+│ █████╗ ██████╗  ██████╗ ██╗   ██╗████████╗    ███╗   ███╗███████╗│  | Then I'll finish it
+│██╔══██╗██╔══██╗██╔═══██╗██║   ██║╚══██╔══╝    ████╗ ████║██╔════╝│  | Now I am busy with great things
+│███████║██████╔╝██║   ██║██║   ██║   ██║       ██╔████╔██║█████╗  │
+│██╔══██║██╔══██╗██║   ██║██║   ██║   ██║       ██║╚██╔╝██║██╔══╝  │
+│██║  ██║██████╔╝╚██████╔╝╚██████╔╝   ██║       ██║ ╚═╝ ██║███████╗│
+│╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝    ╚═╝       ╚═╝     ╚═╝╚══════╝│                         signature |
+└──────────────────────────────────────────────────────────────────┘
+```
 
 ```cpp
 ╭───────────────────────────────────────────────────╮
@@ -9,14 +19,7 @@
 |
 | > Exploit developer
 | > Reverse Engineering 
-|
-| # ls -la
-| --
-| -rwxr-xr-x  key.txt
-| drwxr-xr-x  lib.txt
-| drwxr-xr-x  reverse-engineering/
-| -rwxr-xr-x  skills.txt
-|
+╰───────────────────────────────────────────────────╯
 | # cat skills.txt
 | --
 | > Reverse Engineering:    GDB, Ghidra, Radare2
@@ -28,19 +31,10 @@
 | > Qt (QWidgets, Qt Network)
 | > STL and Boost (Asio, Filesystem)
 | > libpcap and POSIX API
-|
-| # ps aux | grep current
-| --
-| > reverse-engineering malware_sample.bin
-| > developing linux_kernel_exploit
-|
-| > There will be something important here...
-|
-| # nc -lvp 1337
-| --
-| > listening on [any] 1337 ...
-╰───────────────────────────────────────────────────╯
 ```
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1024px-Ghidra_logo.svg.png" alt="ghidra" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/a/a8/BlackArch_Logo.png" alt="blackarch" width="40" height="40"/> <img src="https://camo.githubusercontent.com/d2a6543fbb60370aa40f4494ace5ba619688b5ffed8f3396646221151cc7c315/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f6578706c6f697464622f696d616765732f6578706c6f697464622d6c6f676f2e737667" alt="exploit" width="40" height="40"/> -->
+
 ---
+
 > 01101011 01101000 01101111 01101111 01110010  
 > 01111010 01110010 01110101 01101111 01100111 
