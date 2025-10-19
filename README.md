@@ -32,9 +32,9 @@
 | > STL and Boost (Asio, Filesystem)
 | > libpcap and POSIX API
 
-> [leetcode](https://leetcode.com/u/Tabyretkadp/)
-> [HTB](Tabyretka #2239472)
-- I think someday I'll do it
+> Large projects:
+- https://github.com/Tabyretkadp/HolyTools
+- https://github.com/Tabyretkadp/HexSpam
 
 ```
 
